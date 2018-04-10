@@ -1,0 +1,8 @@
+#Ignore submodules
+<<<<<<< HEAD
+.vs/*
+/x64/*
+*.vcxproj
+*.filters
+/build/*
+/build-NetworkAccess-Desktop_Qt_5_7_1_MSVC2015_64bit-Debug/*
